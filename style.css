@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rebeccapurple;
+  color: whitesmoke;
+  font-size: 2rem;
+}
